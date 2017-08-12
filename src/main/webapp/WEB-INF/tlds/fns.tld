@@ -244,4 +244,19 @@
     <example>${fns:toJson(object)}</example>  
   </function>
   
+  <function>
+    <description>获取类目列表</description>
+    <name>getBizCategoryType</name>
+    <function-class>com.thinkgem.jeesite.ym.util.BizCategoryUtils</function-class>
+    <function-signature>java.util.List getBizCategoryType(java.lang.String)</function-signature>
+    <example>${fns:getBizCategoryType(type)}</example>  
+  </function>
+  <function>
+    <description>获取收录配置列表</description>
+    <name>getCollectContent</name>
+    <function-class>com.thinkgem.jeesite.ym.util.BizCategoryUtils</function-class>
+    <function-signature>java.util.List getCollectContent(java.lang.String)</function-signature>
+    <example>${fns:getCollectContent(type)}</example>  
+  </function>
+  
 </taglib>
