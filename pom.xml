@@ -12,7 +12,7 @@
 	<properties>
 		
 		<!-- main version setting -->
-		<spring.version>4.1.9.RELEASE</spring.version>
+		<spring.version>4.3.16.RELEASE</spring.version>
 		<validator.version>5.2.4.Final</validator.version>
 		<hibernate-validator.version>6.0.0.Alpha2</hibernate-validator.version>
 		<mybatis.version>3.2.8</mybatis.version>
